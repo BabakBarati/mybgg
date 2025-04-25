@@ -1,18 +1,18 @@
 {
     "project": {
         "name": "mybgg",
-        "title": ""
+        "title": "Babak's Board Game Collection"
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "babakb",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME",
+        "app_id": "NHGI5DEB9C",
+        "api_key_search_only": "081123e42c3053e63dad2d45152a1783",
+        "index_name": "tst_mybgg",
         "hits_per_page": 24
     }
 }
