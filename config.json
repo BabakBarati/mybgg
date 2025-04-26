@@ -13,6 +13,6 @@
         "app_id": "NHGI5DEB9C",
         "api_key_search_only": "081123e42c3053e63dad2d45152a1783",
         "index_name": "tst_mybgg",
-        "hits_per_page": 24
+        "hits_per_page": 100
     }
 }
